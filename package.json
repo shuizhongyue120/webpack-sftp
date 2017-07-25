@@ -17,10 +17,7 @@
     "doc": "doc",
     "test": "test"
   },
-  "devDependencies": {
-    "colors": "^1.1.2",
-    "scp2": "^0.5.0"
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shuizhongyue120/webpack-sftp.git"
@@ -28,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/shuizhongyue120/webpack-sftp/issues"
   },
-  "homepage": "https://github.com/shuizhongyue120/webpack-sftp#readme"
+  "homepage": "https://github.com/shuizhongyue120/webpack-sftp#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "scp2": "^0.5.0"
+  }
 }
