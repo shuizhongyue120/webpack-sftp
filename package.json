@@ -1,6 +1,6 @@
 {
   "name": "webpack-sftp",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "webpack sftp plugin",
   "main": "index.js",
   "scripts": {
