@@ -21,6 +21,6 @@ use it in webapck configfile with follow:
         username: "xxxx",
         password: "xxxx",
         from: xxx,
-        to: "xxx/"
+        to: "xxx"
     });
 
