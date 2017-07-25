@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"node index.js"
+    "dev": "node index.js"
   },
   "keywords": [
     "webapck",
@@ -15,5 +15,18 @@
     "scp2": "^0.5.0"
   },
   "author": "KevinJia",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuizhongyue120/webpack-sftp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shuizhongyue120/webpack-sftp/issues"
+  },
+  "homepage": "https://github.com/shuizhongyue120/webpack-sftp#readme"
 }
